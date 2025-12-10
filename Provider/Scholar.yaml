@@ -1,0 +1,38 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Google Scholar
+  - DOMAIN-SUFFIX,scholar.google.com
+
+  # Research Databases
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,sciencedirect.com
+
+  # Academic Publishers
+  - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,researchgate.net
+
+  # University Repositories
+  - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,stanford.edu
+  - DOMAIN-SUFFIX,harvard.edu
+  - DOMAIN-SUFFIX,ox.ac.uk
+  - DOMAIN-SUFFIX,cambridge.org
+
+  # Open Access
+  - DOMAIN-SUFFIX,plos.org
+  - DOMAIN-SUFFIX,doaj.org
+  - DOMAIN-SUFFIX,biomedcentral.com
+
+  # Reference Management
+  - DOMAIN-SUFFIX,zotero.org
+  - DOMAIN-SUFFIX,mendeley.com
+  - DOMAIN-SUFFIX,endnote.com

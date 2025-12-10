@@ -1,0 +1,50 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Disney+
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,dssott.com
+
+  # Hulu
+  - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,huluim.com
+
+  # HBO Max / Max
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,max.com
+
+  # Amazon Prime Video
+  - DOMAIN-SUFFIX,aiv-cdn.net
+  - DOMAIN-SUFFIX,primevideo.com
+
+  # Apple TV+
+  - DOMAIN-SUFFIX,tv.apple.com
+
+  # Paramount+
+  - DOMAIN-SUFFIX,paramount.com
+  - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+
+  # Peacock
+  - DOMAIN-SUFFIX,peacocktv.com
+
+  # Discovery+
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,dplay.com
+
+  # BBC iPlayer
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbci.co.uk
+
+  # ITV Hub
+  - DOMAIN-SUFFIX,itv.com
+  - DOMAIN-SUFFIX,itvstatic.com
+
+  # Crunchyroll
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,vrv.co
+
+  # Funimation
+  - DOMAIN-SUFFIX,funimation.com
