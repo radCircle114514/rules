@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Output file
-OUTPUT_FILE="merged-config.yaml"
+OUTPUT_FILE="config.yaml"
 
 # GitHub base URL
 GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/rules/master/Provider"
