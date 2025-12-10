@@ -6,14 +6,16 @@ OUTPUT_FILE="merged-config.yaml"
 # GitHub base URL
 GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/rules/master/Provider"
 
-# Start writing the output file
-echo "rule-providers:" > "$OUTPUT_FILE"
+# # Start writing the output file
+# echo "rule-providers:" > "$OUTPUT_FILE"
 
 # Check if Provider directory exists
 if [ ! -d "Provider" ]; then
     echo "Error: Provider directory not found!"
     exit 1
 fi
+
+rm -f "$OUTPUT_FILE"
 
 # Loop through all .yaml files in Provider directory
 for file in Provider/*.yaml; do
@@ -27,7 +29,7 @@ for file in Provider/*.yaml; do
     filename=$(basename "$file" .yaml)
 
     # Write the rule-provider entry
-    echo "  $filename: { type: http, behavior: classical, url: '$GITHUB_BASE_URL/$filename.yaml', path: ./Rules/$filename, interval: 86400 }" >> "$OUTPUT_FILE"
+    echo "$filename: { type: http, behavior: classical, url: '$GITHUB_BASE_URL/$filename.yaml', path: ./Rules/$filename, interval: 86400 }" >> "$OUTPUT_FILE"
 done
 
 echo "Merged config file created: $OUTPUT_FILE"
