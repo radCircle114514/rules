@@ -13,6 +13,7 @@ Netflix: { type: http, behavior: classical, url: 'https://raw.githubusercontent.
 NicoNico: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/NicoNico.yaml', path: ./Rules/NicoNico, interval: 86400 }
 Paypal: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Paypal.yaml', path: ./Rules/Paypal, interval: 86400 }
 Pornhub: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Pornhub.yaml', path: ./Rules/Pornhub, interval: 86400 }
+Proxy: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Proxy.yaml', path: ./Rules/Proxy, interval: 86400 }
 Scholar: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Scholar.yaml', path: ./Rules/Scholar, interval: 86400 }
 Special: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Special.yaml', path: ./Rules/Special, interval: 86400 }
 SpeedTest: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/SpeedTest.yaml', path: ./Rules/SpeedTest, interval: 86400 }
