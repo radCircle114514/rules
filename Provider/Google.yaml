@@ -1,0 +1,27 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Google General
+  - DOMAIN-SUFFIX,abc.xyz
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,goo.gl
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+  # Android
+  - DOMAIN-SUFFIX,android.com
+
+  # Chrome
+  - DOMAIN-SUFFIX,chrome.com
+  - DOMAIN-SUFFIX,chromium.org
+
+  # Ads & Analytics
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+
+  # Waze
+  - DOMAIN-SUFFIX,waze.com

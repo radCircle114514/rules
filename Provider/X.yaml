@@ -1,0 +1,22 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # X (Twitter) General
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,x.com
+
+  # X CDN & Media
+  - DOMAIN-SUFFIX,abs.twimg.com
+  - DOMAIN-SUFFIX,pbs.twimg.com
+  - DOMAIN-SUFFIX,video.twimg.com
+
+  # X AI (Grok)
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-SUFFIX,x.ai
+
+  # X Spaces & Live
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv

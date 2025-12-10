@@ -1,0 +1,31 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Facebook
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,facebook.net
+
+  # Instagram
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+
+  # WhatsApp
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+
+  # Threads
+  - DOMAIN-SUFFIX,threads.net
+
+  # Meta Infrastructure
+  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metacdn.com
+  - DOMAIN-SUFFIX,connect.facebook.net
+
+  # Oculus/VR
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+
+  # Messenger
+  - DOMAIN-SUFFIX,messenger.com

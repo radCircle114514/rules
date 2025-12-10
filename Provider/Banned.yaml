@@ -1,0 +1,14 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Banned
+  - DOMAIN-SUFFIX,channels.weixin.qq.com
+  - DOMAIN-SUFFIX,channels.weixin.clouddn.com
+  - DOMAIN-SUFFIX,hupu.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,tieba.baidu.com
+  - DOMAIN-SUFFIX,missav.ms
+  - DOMAIN-SUFFIX,zhihu.com
+  - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,missav123.com

@@ -1,0 +1,12 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # Domains
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+
+  # IP CIDR
+  - IP-CIDR,91.108.0.0/16
+  - IP-CIDR,149.154.160.0/20

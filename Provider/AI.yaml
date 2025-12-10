@@ -1,0 +1,23 @@
+# REPO: https://github.com/radCircle114514/rules/
+# UPDATED: 2025-12-10
+payload:
+  # OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+
+  # Anthropic
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+  # Google Gemini
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+
+  # Grok AI
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-SUFFIX,x.ai
+
+  # Midjourney
+  - DOMAIN-SUFFIX,midjourney.com
