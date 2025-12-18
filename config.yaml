@@ -12,7 +12,7 @@ Meta: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com
 Microsoft: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Microsoft.yaml', path: ./Rules/Microsoft, interval: 86400 }
 Netflix: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Netflix.yaml', path: ./Rules/Netflix, interval: 86400 }
 NicoNico: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/NicoNico.yaml', path: ./Rules/NicoNico, interval: 86400 }
-Paypal: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Paypal.yaml', path: ./Rules/Paypal, interval: 86400 }
+PayPal: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/PayPal.yaml', path: ./Rules/PayPal, interval: 86400 }
 Pornhub: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Pornhub.yaml', path: ./Rules/Pornhub, interval: 86400 }
 Proxy: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Proxy.yaml', path: ./Rules/Proxy, interval: 86400 }
 Scholar: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Scholar.yaml', path: ./Rules/Scholar, interval: 86400 }
@@ -23,4 +23,4 @@ Steam: { type: http, behavior: classical, url: 'https://raw.githubusercontent.co
 Telegram: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Telegram.yaml', path: ./Rules/Telegram, interval: 86400 }
 TikTok: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/TikTok.yaml', path: ./Rules/TikTok, interval: 86400 }
 X: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/X.yaml', path: ./Rules/X, interval: 86400 }
-Youtube: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/Youtube.yaml', path: ./Rules/Youtube, interval: 86400 }
+YouTube: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/rules/master/Provider/YouTube.yaml', path: ./Rules/YouTube, interval: 86400 }
