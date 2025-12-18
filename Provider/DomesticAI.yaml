@@ -1,0 +1,58 @@
+payload:
+  # Baidu AI
+  - DOMAIN-SUFFIX,wenxin.baidu.com
+  - DOMAIN-SUFFIX,yiyan.baidu.com
+  - DOMAIN-SUFFIX,erniebot.com
+  - DOMAIN-SUFFIX,paddlepaddle.org.cn
+
+  # Alibaba AI
+  - DOMAIN-SUFFIX,tongyi.aliyun.com
+  - DOMAIN-SUFFIX,qwenlm.ai
+  - DOMAIN-SUFFIX,qwen.alibaba.com
+  - DOMAIN-SUFFIX,aliyun.com/product/bigmodel
+
+  # Tencent AI
+  - DOMAIN-SUFFIX,hunyuan.tencent.com
+  - DOMAIN-SUFFIX,yuanbao.tencent.com
+
+  # ByteDance AI
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,coze.cn
+  - DOMAIN-SUFFIX,volcengine.com
+
+  # iFlytek
+  - DOMAIN-SUFFIX,xfyun.cn
+  - DOMAIN-SUFFIX,iflytek.com
+  - DOMAIN-SUFFIX,xinghuo.xfyun.cn
+
+  # SenseTime
+  - DOMAIN-SUFFIX,sensetime.com
+  - DOMAIN-SUFFIX,sensenova.cn
+
+  # Zhipu AI
+  - DOMAIN-SUFFIX,zhipuai.cn
+  - DOMAIN-SUFFIX,chatglm.cn
+  - DOMAIN-SUFFIX,bigmodel.cn
+
+  # MiniMax
+  - DOMAIN-SUFFIX,minimax.chat
+  - DOMAIN-SUFFIX,hailuoai.com
+
+  # Moonshot AI
+  - DOMAIN-SUFFIX,moonshot.cn
+  - DOMAIN-SUFFIX,kimi.moonshot.cn
+
+  # Baichuan AI
+  - DOMAIN-SUFFIX,baichuan-ai.com
+
+  # 01.AI
+  - DOMAIN-SUFFIX,01.ai
+  - DOMAIN-SUFFIX,lingyiwanwu.com
+
+  # DeepSeek
+  - DOMAIN-SUFFIX,deepseek.com
+
+  # Shanghai AI Lab
+  - DOMAIN-SUFFIX,shlab.org.cn
+  - DOMAIN-SUFFIX,internlm.org.cn
