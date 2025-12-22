@@ -21,3 +21,15 @@ payload:
   # iTunes
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,itunesmatch.com
+
+  # Apple Music
+  - DOMAIN-SUFFIX,applemusic.com
+
+  # Apple TV+
+  - DOMAIN-SUFFIX,appletvplus.com
+
+  # Shazam
+  - DOMAIN-SUFFIX,shazam.com
+
+  # Beats
+  - DOMAIN-SUFFIX,beats.com

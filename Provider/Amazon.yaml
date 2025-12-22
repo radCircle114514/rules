@@ -13,3 +13,7 @@ payload:
   # Prime Video
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,primevideo.com
+
+  # Twitch
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net

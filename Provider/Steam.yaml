@@ -10,3 +10,12 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamstatic.com
+
+  # Steam Community
+  - DOMAIN-SUFFIX,steamcommunity.com
+
+  # Steam CDN
+  - DOMAIN-SUFFIX,steampowered.com
+
+  # Valve
+  - DOMAIN-SUFFIX,valvesoftware.com

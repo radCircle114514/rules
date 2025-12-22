@@ -23,5 +23,27 @@ payload:
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googletagmanager.com
 
+  # Gmail
+  - DOMAIN-SUFFIX,gmail.com
+
+  # Google Drive
+  - DOMAIN-SUFFIX,drive.google.com
+
+  # Google Maps
+  - DOMAIN-SUFFIX,maps.google.com
+
+  # Google Photos
+  - DOMAIN-SUFFIX,photos.google.com
+
+  # Firebase
+  - DOMAIN-SUFFIX,firebase.google.com
+  - DOMAIN-SUFFIX,firebaseio.com
+
+  # Nest
+  - DOMAIN-SUFFIX,nest.com
+
+  # Fitbit
+  - DOMAIN-SUFFIX,fitbit.com
+
   # Waze
   - DOMAIN-SUFFIX,waze.com

@@ -10,3 +10,9 @@ payload:
   # IP CIDR
   - IP-CIDR,91.108.0.0/16
   - IP-CIDR,149.154.160.0/20
+
+# Telegram Web
+  - DOMAIN-SUFFIX,t.me
+
+  # Telegram Desktop/Client
+  - DOMAIN-SUFFIX,telegram.me

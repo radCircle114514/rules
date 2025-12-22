@@ -9,3 +9,7 @@ payload:
   # CDN / Media
   - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
   - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordcdn.com
+
+  # Discord App
+  - DOMAIN-SUFFIX,discord.gg

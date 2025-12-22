@@ -8,3 +8,7 @@ payload:
   # CDN
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spotifycdn.com
+
+  # Spotify Podcasts
+  - DOMAIN-SUFFIX,podcasters.spotify.com

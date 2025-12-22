@@ -20,3 +20,6 @@ payload:
   # X Spaces & Live
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
+
+  # TweetDeck
+  - DOMAIN-SUFFIX,tweetdeck.twitter.com
