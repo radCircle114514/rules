@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
   # Android
   - DOMAIN-SUFFIX,android.com
@@ -22,13 +21,6 @@ payload:
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googletagmanager.com
-
-  # Google Play
-  - DOMAIN-SUFFIX,play.google.com
-  - DOMAIN-SUFFIX,playservices.google.com
-  - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,android.clients.google.com
-  - DOMAIN-SUFFIX,gvt1.com
 
   # Gmail
   - DOMAIN-SUFFIX,gmail.com
