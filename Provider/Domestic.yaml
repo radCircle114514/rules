@@ -92,6 +92,8 @@ payload:
   - DOMAIN-SUFFIX,bcebos.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
+  # Google play download
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   # Domestic IPs (Truncated for brevity, includes full list in practice)
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
