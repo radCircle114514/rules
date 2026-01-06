@@ -93,7 +93,13 @@ payload:
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   # Google play download
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+  - DOMAIN-SUFFIX,googleapis.cn,DIRECT
+  - DOMAIN,clientservices.googleapis.com,DIRECT
+  - DOMAIN,update.googleapis.com,DIRECT
+  - DOMAIN,translate.googleapis.com,DIRECT
+  - DOMAIN,fonts.googleapis.com,DIRECT
+
   # Domestic IPs (Truncated for brevity, includes full list in practice)
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
