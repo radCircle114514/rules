@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,google.com.hk
 
   # Android
   - DOMAIN-SUFFIX,android.com
