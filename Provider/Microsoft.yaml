@@ -25,10 +25,10 @@ payload:
 
   # GitHub
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
 
   # Copilot
-  - DOMAIN-SUFFIX,githubcopilot.com
-  - DOMAIN-SUFFIX,githubusercontent.com
+  # - DOMAIN-SUFFIX,githubcopilot.com
 
   # LinkedIn
   - DOMAIN-SUFFIX,linkedin.com
