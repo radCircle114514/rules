@@ -30,8 +30,8 @@ payload:
   - DOMAIN-SUFFIX,drive.google.com
 
   # Google Maps
-  - DOMAIN-SUFFIX,google.cn
-  - DOMAIN-SUFFIX,maps.google.cn
+  # - DOMAIN-SUFFIX,google.cn
+  # - DOMAIN-SUFFIX,maps.google.cn
   - DOMAIN-SUFFIX,maps.google.com
   - DOMAIN-SUFFIX,maps.gstatic.com
 
