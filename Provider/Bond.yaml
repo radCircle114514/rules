@@ -1,0 +1,6 @@
+# add sites of bond provider
+
+payload:
+  - DOMAIN-SUFFIX,lbkrs.com
+  - DOMAIN-SUFFIX,lbctrl.com
+  - DOMAIN-SUFFIX,longbridge.cn

@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,njavtv.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,zhihu.com
