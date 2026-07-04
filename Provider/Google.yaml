@@ -53,3 +53,9 @@ payload:
 
   # Google CDN
   - DOMAIN-SUFFIX,gvt1.com
+
+  # Google Play
+  # Force China CDN domains to bypass the proxy entirely
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN,services.googleapis.cn

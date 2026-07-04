@@ -92,11 +92,6 @@ payload:
   - DOMAIN-SUFFIX,bcebos.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
-  # Google Play
-  # Force China CDN domains to bypass the proxy entirely
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN,services.googleapis.cn
 
   # Domestic IPs (Truncated for brevity, includes full list in practice)
   - IP-CIDR,1.0.1.0/24
