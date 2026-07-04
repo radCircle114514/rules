@@ -50,3 +50,6 @@ payload:
 
   # Waze
   - DOMAIN-SUFFIX,waze.com
+
+  # Google CDN
+  - DOMAIN-SUFFIX,gvt1.com
