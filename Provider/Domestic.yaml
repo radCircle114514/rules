@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,weixin.qq.com
   - DOMAIN-SUFFIX,work.weixin.qq.com
   - DOMAIN-SUFFIX,wxwork.com
+  # Wispr flow
+  - DOMAIN-SUFFIX,api.wisprflow.ai
   # Alibaba
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alicdn.com
